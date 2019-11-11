@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.root-container{
+  width: 100%;
+}
+
+.recipeRow{
+  display: flex;
+  flex-flow: row;
+  justify-content: center;
+}
+
+.recipeCol{
+  margin: 0 0.5em;
+}
